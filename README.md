@@ -69,7 +69,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-## USER DOCUMENTATION AVAILABLE HERE :
+## DATABASE ANALYZER USER DOCUMENTATION AVAILABLE HERE :
 https://wiki.corp.adobe.com/display/neolane/Database+Design+Analyser%3A+Documentation
 
 ## LIVE DEMO HERE :
