@@ -1,0 +1,50 @@
+{
+  "name": "mydiagtest",
+  "version": "0.1.0",
+  "javascript.validate.enable": true,
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "es6-promise": "^4.2.8",
+    "holderjs": "^2.9.6",
+    "isomorphic-fetch": "^2.2.1",
+    "json-beautify": "^1.1.1",
+    "json-loader": "^0.5.7",
+    "node-fetch": "^2.6.0",
+    "node-sass": "^4.13.1",
+    "query-string": "^6.11.1",
+    "react": "^16.13.0",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-dom": "^16.13.0",
+    "react-dropzone": "^10.2.1",
+    "react-scripts": "3.0.1",
+    "storm-react-diagrams": "^5.2.1",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.13.0"
+  },
+  "homepage": "."
+}
