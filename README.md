@@ -7,7 +7,7 @@ All content here is not supported by Adobe as a product feature. This is all pur
 https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:f7b02b6e-768d-47b0-9cf7-64ffc8632542
 
 ## Installation : 
-1. Download the archive : [Download the files](ACC_Diagram_Analyzer_Compiled_ReadyToDeploy.zip)
+1. Download the archive : [ACC_Diagram_Analyzer_Compiled_ReadyToDeploy.zip](ACC_Diagram_Analyzer_Compiled_ReadyToDeploy.zip)
   You will find 2 folders dbajssp and dbanalyser
 2. Connect to your Campaign application server as neolane
 3. Copy the content of folder dbajssp (2 JSSP files) in /usr/local/neolane/nl6/datakit/xtk/eng/jssp/
