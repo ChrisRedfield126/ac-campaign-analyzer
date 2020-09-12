@@ -7,15 +7,16 @@ All content here is not supported by Adobe as a product feature. This is all pur
 https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:f7b02b6e-768d-47b0-9cf7-64ffc8632542
 
 ## Installation : 
-#1 Download the archive : [Download the files](ACC_Diagram_Analyzer_Compiled_ReadyToDeploy.zip)
+1. Download the archive : [Download the files](ACC_Diagram_Analyzer_Compiled_ReadyToDeploy.zip)
   You will find 2 folders dbajssp and dbanalyser
-#2 Connect to your Campaign application server as neolane
-#3 Copy the content of folder dbajssp (2 JSSP files) in /usr/local/neolane/nl6/datakit/xtk/eng/jssp/
-#4 Create a folder "dbanalyser" in /usr/local/neolane/nl6/web/
+2. Connect to your Campaign application server as neolane
+3. Copy the content of folder dbajssp (2 JSSP files) in /usr/local/neolane/nl6/datakit/xtk/eng/jssp/
+4. Create a folder "dbanalyser" in /usr/local/neolane/nl6/web/
     mkdir /usr/local/neolane/nl6/web/dbanalyser
-#5 Copy the content of folder dbanalyser (the React UI files) in /usr/local/neolane/nl6/web/dbanalyser
-#6 Open your web Browser (Safari works best but Chrome is ok) and go to http(s)://<yourCampaignServerURL>/nl/dbanalyser/index.html?jsspns=xtk&columnsdepth=10&maxtoload=10&preset=custom&loglevel=0&analyzedepth=30&nocache=false
-#7 Log in with your admin account (Adobe Campaign credentials) and press "Sign In"
+5. Copy the content of folder dbanalyser (the React UI files) in /usr/local/neolane/nl6/web/dbanalyser
+6. Open your web Browser (Safari works best but Chrome is ok) and go to http(s)://<yourCampaignServerURL>/nl/dbanalyser/index.html?jsspns=xtk&columnsdepth=10&maxtoload=10&preset=custom&loglevel=0&analyzedepth=30&nocache=false
+7. Log in with your admin account (Adobe Campaign credentials) and press "Sign In"
+
 If you see the tables popping up then you are done!
 
 **** **********************************************************************************
