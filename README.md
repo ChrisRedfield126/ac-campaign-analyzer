@@ -1,5 +1,8 @@
 ![Example Capture](https://github.com/ChrisRedfield126/ac-campaign-analyzer/blob/master/Screenshot%202020-09-12%20at%2022.54.18.png)
 
+The below demo video runs on a earlier version of the UI. Please check documentation for the latest features
+![Quick Demo](https://www.youtube.com/watch?v=q4B48dKHl_s)
+
 # IMPORTANT NOTICE 
 All content here is not supported by Adobe as a product feature. This is all pure custom code. Using it, running it is under you responsibility. Please take tare of our Customers Campaign instances
 
