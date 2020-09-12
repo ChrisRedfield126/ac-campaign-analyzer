@@ -1,17 +1,21 @@
+![Test Image 4](https://git.corp.adobe.com/protat/ac-campaign-analyzer/blob/master/Screenshot%202020-09-12%20at%2022.54.18.png)
+
 # IMPORTANT NOTICE 
 All content here is not supported by Adobe as a product feature. This is all pure custom code. Using it, running it is under you responsibility. Please take tare of our Customers Campaign instances
 
-## DATABASE ANALYZER USER DOCUMENTATION AVAILABLE HERE :
-https://documentcloud.adobe.com/link/review/?pageNum=2&uri=urn%3Aaaid%3Ascds%3AUS%3Ab540c115-b604-4406-8610-eb45726625ae
-
-## Client side compiled code (ready to use) : 
-This archive contains the React UI. Just unzip and you can run it directly from your web browser https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Aec288b79-3bc2-4eaf-9d46-1ad53f8f9c64 
-
-## Server side sources code JSSP 
-This is for  internal use only  as this is the property of These 2 JSSP need to get deployed on Campaign instance. They provide a JSON view of the Campaign Data model metdada (table structure and links) 
-https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A35092cbd-e36f-4d5f-a08b-f49fa21ad96d
+## DATABASE ANALYZER INSTALLATION & USER DOCUMENTATION AVAILABLE HERE :
+https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:f7b02b6e-768d-47b0-9cf7-64ffc8632542
 
 **** **********************************************************************************
+
+## INTERNAL ADOBE ACCESS REQUIRED ***************************************************
+### DATABASE ANALYZER USER DOCUMENTATION AVAILABLE HERE :
+https://wiki.corp.adobe.com/display/neolane/Database+Design+Analyser%3A+Documentation
+
+### LIVE DEMO HERE :
+http://woodstock.corp.adobe.com/experiments/diagramAnalyzer/
+**** **********************************************************************************
+
 NOW IF YOU WANT TO PLAY WITH THE SOURCE CODE THEN PLEASE FIND BELOW HOW TO INSTALL IT ON YOUR ENVIRONMENT
 
 ## INSTALLATION
