@@ -1,10 +1,16 @@
-![Test Image 4](https://github.com/ChrisRedfield126/ac-campaign-analyzer/blob/master/Screenshot%202020-09-12%20at%2022.54.18.png)
+![Example Capture](https://github.com/ChrisRedfield126/ac-campaign-analyzer/blob/master/Screenshot%202020-09-12%20at%2022.54.18.png)
 
 # IMPORTANT NOTICE 
 All content here is not supported by Adobe as a product feature. This is all pure custom code. Using it, running it is under you responsibility. Please take tare of our Customers Campaign instances
 
-## DATABASE ANALYZER INSTALLATION & USER DOCUMENTATION AVAILABLE HERE :
+## DATABASE ANALYZER USER DOCUMENTATION AVAILABLE HERE :
 https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:f7b02b6e-768d-47b0-9cf7-64ffc8632542
+
+## Installation : 
+Here are the compiled files you can use for installation : [Download the files](ACC_Diagram_Analyzer_Compiled_ReadyToDeploy.zip)
+
+
+
 
 **** **********************************************************************************
 
