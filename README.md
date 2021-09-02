@@ -9,7 +9,7 @@ The below demo video runs on a earlier version of the UI. Please check documenta
 All content here is not supported by Adobe as a product feature. This is all pure custom code. Using it, running it is under you responsibility. Please take tare of our Customers Campaign instances
 
 ## DATABASE ANALYZER USER DOCUMENTATION AVAILABLE HERE :
-https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:f7b02b6e-768d-47b0-9cf7-64ffc8632542
+NEW LINK TO GET SHARED LATER *** WIP
 
 ## Installation : 
 1. Download the archive : [ACC_Diagram_Analyzer_Compiled_ReadyToDeploy.zip](ACC_Diagram_Analyzer_Compiled_ReadyToDeploy.zip)
