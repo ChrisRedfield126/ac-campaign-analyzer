@@ -4,7 +4,7 @@
   "javascript.validate.enable": true,
   "private": true,
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "es6-promise": "^4.2.8",
     "holderjs": "^2.9.6",

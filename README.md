@@ -23,15 +23,6 @@ https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:f7b02b6e-768d-47
 7. Log in with your admin account (Adobe Campaign credentials) and press "Sign In"
 
 If you see the tables popping up then you are done!
-
-**** **********************************************************************************
-
-## INTERNAL ADOBE ACCESS REQUIRED ***************************************************
-### DATABASE ANALYZER USER DOCUMENTATION AVAILABLE HERE :
-https://wiki.corp.adobe.com/display/neolane/Database+Design+Analyser%3A+Documentation
-
-### LIVE DEMO HERE :
-http://woodstock.corp.adobe.com/experiments/diagramAnalyzer/
 **** **********************************************************************************
 
 NOW IF YOU WANT TO PLAY WITH THE SOURCE CODE THEN PLEASE FIND BELOW HOW TO INSTALL IT ON YOUR ENVIRONMENT
